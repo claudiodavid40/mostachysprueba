@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 123, 0);
+}
+
+.nav{
+
+    &__link{
+        color: brown;
+        font-weight:bolder;
+    }
+}
+
+.header{
+    &__titulo{
+        color:blue;
+    }
+    &__titulo2{
+        color:rgb(53, 184, 48);
+    }
+}
